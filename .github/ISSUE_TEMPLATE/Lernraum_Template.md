@@ -1,6 +1,6 @@
 ---
-name: Asset User Story Template
-about: Asset User Story im AdLer Projekt
+name: Lernraum Template
+about: Lernraum im EvaluationsAdLer
 title: ""
 labels: ""
 assignees: ""
